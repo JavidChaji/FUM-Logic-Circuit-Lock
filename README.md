@@ -23,9 +23,9 @@ designing a Semi-mechanical Lock with verilog language
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Logic-Circuit-Lock.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Logic-Circuit-Lock/graphs/contributors
 
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
