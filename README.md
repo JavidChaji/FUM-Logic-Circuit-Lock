@@ -18,10 +18,10 @@ designing a Semi-mechanical Lock with verilog language
 
 <!-- LICENSE -->
 ## License
+<sup align="right">[(Back to top)](#table-of-contents)</sup>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<sup align="right">[(Back to top)](#table-of-contents)</sup>
 
 
 
