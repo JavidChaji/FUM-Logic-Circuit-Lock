@@ -38,7 +38,7 @@ designing a Semi-mechanical Lock with verilog language
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<sup align="right">(<a href="#readme-top">back to top</a>)</sup>
+<p align="right"><a href="#readme-top">back to top 🔝</a></p>
 
 
 
