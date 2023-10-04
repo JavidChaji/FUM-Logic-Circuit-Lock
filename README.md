@@ -15,12 +15,29 @@ Ferdowsi University of Mashhad Logic Circuit Lock
 designing a Semi-mechanical Lock with verilog language 
 
 
+## Table of Contents
+
+- [Installation](#installation)
+  - [Pre-requisites](#pre-requisites)
+  - [Compilation](#compilation)
+- [Usage](#usage)
+  - [Language Transformations: FRET](#language-transformations-fret)
+  - [cFS Application Generation](#cfs-application-generation)
+  - [ROS Application Generation](#ros-application-generation)
+  - [F' Component Generation](#f-component-generation)
+  - [Struct Interface Generation](#struct-interface-generation)
+- [Contributions](#contributions)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+
+
 
 <!-- LICENSE -->
 ## License
 <sup align="right">[(Back to top)](#table-of-contents)</sup>
 
 Distributed under the MIT License. See `LICENSE` for more information.
+<sup align="right">(<a href="#readme-top">back to top</a>)</sup>
 
 
 
