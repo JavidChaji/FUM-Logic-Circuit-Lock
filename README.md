@@ -30,12 +30,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
+<sup>[(Back to top)](#table-of-contents)</sup>
 Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Lock](https://github.com/JavidChaji/FUM-Logic-Circuit-Lock)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
