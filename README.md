@@ -35,7 +35,7 @@ Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Lock](https://github.com/JavidChaji/FUM-Logic-Circuit-Lock)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"><i class="material-icons">top</i></a>)</p>
 
 
 
