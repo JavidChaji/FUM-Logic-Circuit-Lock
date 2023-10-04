@@ -50,7 +50,7 @@ designing a Semi-mechanical Lock with verilog language
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p style="font-size:8.0pt" align="right"><a href="#readme-top">(back to top)</a></p>
+<p align="right"><a style="font-size:8.0pt" href="#readme-top">(back to top)</a></p>
 
 
 
