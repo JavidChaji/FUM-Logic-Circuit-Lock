@@ -49,7 +49,7 @@ designing a Semi-mechanical Lock with verilog language
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"><a href="#readme-top">(back to top)</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -61,7 +61,7 @@ Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Lock](https://github.com/JavidChaji/FUM-Logic-Circuit-Lock)
 
-<p align="right"><a href="#readme-top">(back to top)</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
