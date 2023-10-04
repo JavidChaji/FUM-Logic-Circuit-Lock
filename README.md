@@ -1,6 +1,3 @@
-<a name="readme-top"></a>
-
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -24,7 +21,7 @@ designing a Semi-mechanical Lock with verilog language
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<sup>[(Back to top)](#table-of-contents)</sup>
+<sup align="right">[(Back to top)](#table-of-contents)</sup>
 
 
 
