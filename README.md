@@ -174,5 +174,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Verilog.js]: https://img.shields.io/badge/Verilog-5D87BF?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Verilog.js]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=#5D87BF&logoColor=white
 [Verilog-url]: https://ieeexplore.ieee.org/document/5985443
