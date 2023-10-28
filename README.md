@@ -70,7 +70,7 @@ Technologies and Tools Utilized in this Project
 
 
 
-* [![Verilog][Verilog.org]][Verilog-url]
+* [![Verilog][Verilog-Shield]][Verilog-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,5 +176,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Verilog.org]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
+[Verilog-Shield]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
 [Verilog-url]: https://ieeexplore.ieee.org/document/5985443
