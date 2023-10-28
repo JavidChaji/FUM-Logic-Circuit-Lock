@@ -111,7 +111,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
+Javid Chaji
+
+[![X][X-Shield]][X-URL]
+
+javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Lock](https://github.com/JavidChaji/FUM-Logic-Circuit-Lock)
 
@@ -176,5 +180,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
+<!-- Verilog -->
 [Verilog-Shield]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
+
 [Verilog-url]: https://ieeexplore.ieee.org/document/5985443
+
+
+<!-- X -->
+[X-Shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+
+[X-URL]: https://x.com/JavidChaji
