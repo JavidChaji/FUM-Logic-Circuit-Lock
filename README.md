@@ -1,21 +1,19 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
-
 
 # verilog-logic-circuit-project
 
 Ferdowsi University of Mashhad Logic Circuit Lock
 
 designing a Semi-mechanical Lock with verilog language 
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -45,6 +43,12 @@ designing a Semi-mechanical Lock with verilog language
 </details>
 
 
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
 ### Built With
 
 Technologies and Tools Utilized in this Project
@@ -52,6 +56,7 @@ Technologies and Tools Utilized in this Project
 * [![Verilog][Verilog-Shield]][Verilog-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTRIBUTING -->
@@ -71,12 +76,14 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
@@ -91,6 +98,7 @@ javid.chaji@gmail.com
 Project Link: [https://github.com/JavidChaji/FUM-Logic-Circuit-Lock](https://github.com/JavidChaji/FUM-Logic-Circuit-Lock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -110,6 +118,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
@@ -118,6 +127,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Logic-Circuit-Lock.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Logic-Circuit-Lock/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Logic-Circuit-Lock.svg?style=for-the-badge
